@@ -1,0 +1,11 @@
+{
+  "createdIdea": "D:\\AI\\ChromeExtension\\created_idea_003_table-product-price-compare-panel",
+  "zip": "D:\\AI\\ChromeExtension\\created_idea_003_table-product-price-compare-panel\\idea_003_table-product-price-compare-panel.zip",
+  "rank": 40,
+  "domain": "ChromeExtension",
+  "ideaNo": 3,
+  "title": "表・商品・価格比較パネル",
+  "overview": "検索結果、表、商品候補、価格履歴、比較軸、購入保留理由を同じサイドバーで管理する。",
+  "problem": "商品や情報の比較理由がブラウザ履歴やメモに散らばり、後から判断しにくい。",
+  "differentiation": "価格だけでなく、比較軸と保留理由をローカルに残せる。"
+}

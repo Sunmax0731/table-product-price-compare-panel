@@ -1,0 +1,20 @@
+{
+  "product": {
+    "repository": "table-product-price-compare-panel",
+    "title": "表・商品・価格比較パネル"
+  },
+  "items": [
+    {
+      "id": "ok-1",
+      "title": "表・商品・価格比較パネル 正常ケース",
+      "source": "source-ok",
+      "price": "price-ok",
+      "criteria": "criteria-ok",
+      "decisionReason": "decisionReason-ok",
+      "owner": "owner-ok",
+      "acceptance": "acceptance-ok",
+      "status": "ready",
+      "priceUpdatedAt": "ready"
+    }
+  ]
+}
