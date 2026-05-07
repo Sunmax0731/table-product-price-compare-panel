@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "表・商品・価格比較パネル",
+  "version": "0.1.0",
+  "description": "検索結果、表、商品候補、価格履歴、比較軸、購入保留理由を同じサイドバーで管理する。",
+  "permissions": [
+    "storage",
+    "activeTab"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
