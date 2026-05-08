@@ -1,0 +1,11 @@
+{
+  "product": "table-product-price-compare-panel",
+  "title": "表・商品・価格比較パネル",
+  "domain": "ChromeExtension",
+  "ideaNo": 3,
+  "platformType": "chrome-extension",
+  "expectedPublicTarget": "Chrome Web Store",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
